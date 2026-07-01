@@ -15,43 +15,42 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>React Internship</h4>
+                <h5>Web Experts Nepal Pvt. Ltd. | Kathmandu</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Assisted in frontend development using React.js. Learned and applied
+              component-based architecture, state management, and collaborative development.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>React Developer</h4>
+                <h5>Varosa Technology | Kathmandu</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021 - 2022</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed responsive web applications using React and JavaScript. Integrated
+              backend APIs and worked closely with designers to translate Figma designs into
+              production-ready interfaces.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Engineer</h4>
+                <h5>readytowork | Remote, Japan</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022 - 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed recruitment platforms (Minnano Driver) using Next.js, TypeScript,
+              and TanStack Query. Built enterprise-level inventory management systems (ORD)
+              using Laravel, Inertia.js, and Material UI while optimizing performance.
             </p>
           </div>
         </div>
